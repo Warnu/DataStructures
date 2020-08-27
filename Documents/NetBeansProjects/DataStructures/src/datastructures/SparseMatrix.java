@@ -1,8 +1,4 @@
-/*
-Oreste Arredondo
-9/30/2019
-COP3530
- */
+
 package datastructures;
 
 public class SparseMatrix {
